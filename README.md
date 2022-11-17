@@ -10,7 +10,7 @@
 def validate_<nome_do_campo>(self, nome_do_campo):
   if len(nome_do_campo) < 11:
     raise serializers.ValidationError("O campo deve ter 11 dígitos")
-  return nome_do_campoCOPIAR CÓDIGO
+  return nome_do_campo
 ```
 #### Vimos que podemos criar uma função chamada validate para validar todos os campo, validate(self, data) e acessar cada campo com data['<nome_do_campo>'];
 
