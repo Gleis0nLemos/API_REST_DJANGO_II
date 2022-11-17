@@ -3,18 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### Aprendemos como validar campo a campo criando uma função, por exemplo:
-```
-def validate_<nome_do_campo>(self, nome_do_campo):
-  if len(nome_do_campo) < 11:
-    raise serializers.ValidationError("O campo deve ter 11 dígitos")
-  return nome_do_campo
-```
-#### Vimos que podemos criar uma função chamada validate para validar todos os campo, validate(self, data) e acessar cada campo com data['<nome_do_campo>'];
+#### Aprendemos como validar os campos da API utilizando expressões regulares;
 
-#### Melhoramos nosso código removendo a lógica de validação do serializer.
+#### Vimos que é possível importar outras bibliotecas de validação para utilizar no nosso projeto;
+
+#### Executamos um script para criar vários clientes de uma só vez em nossa base de dados.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
