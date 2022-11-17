@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Aprendemos como validar os campos da API utilizando expressões regulares;
+#### Aprendemos como ordenar os campos da API de forma ascendente e descendente;
 
-#### Vimos que é possível importar outras bibliotecas de validação para utilizar no nosso projeto;
+#### Vimos como incluir paginação e filtros nos campos;
 
-#### Executamos um script para criar vários clientes de uma só vez em nossa base de dados.
+#### Desenvolvemos a busca de clientes pelo número de CPF ou pelo nome.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
