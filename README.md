@@ -1,15 +1,56 @@
 # API com Django 3: 
 ### Validações, buscas, filtros e deploy
 
-> Status: Em aprendizagem
+> Status: Finish
 
-## Aula 05: 
+## Sumário: 
 
-#### Configuramos nosso projeto local para realizar o deploy;
+#### Aula 01: Iniciando o projeto;
 
-#### Realizamos o deploy e colocamos a API no ar;
+#### Aula 02: Validações no Serializer;
 
-#### Vimos como atualizar a API no Heroku.
+#### Aula 03: Importando validações e gerando clientes;
+
+#### Aula 04: Paginação, ordenação, busca e filtro;
+
+#### Aula 05: Deploy.
+##
+
+## Para uso
+
+clone o projeto para sua máquina;
+```
+https://github.com/Gleis0nLemos/API_REST_DJANGO_II.git
+```
+
+tenha o Python instalado na versão 3+;
+
+Garanta que o pip esteja instalado, com o comando:
+
+```
+pip3 --version
+```
+
+Crie sua virtual env na pasta do projeto, e acesse a mesma.
+Após tudo, instale todas as dependências do projeto que se encontra no 'requirements.txt', dentro da sua venv:
+```
+pip install -r requirements.txt
+```
+
+Para rodar o servidor local, basta digitar no terminal:
+
+```
+python manage.py runserver
+```
+
+Link do servidor no Heroku:
+
+```
+https://api-clients-drf.herokuapp.com/
+```
+
+<div align=center>
+  <h4>Curso, by #Alura</h4>
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
