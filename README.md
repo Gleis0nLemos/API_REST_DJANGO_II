@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Aprendemos como ordenar os campos da API de forma ascendente e descendente;
+#### Configuramos nosso projeto local para realizar o deploy;
 
-#### Vimos como incluir paginação e filtros nos campos;
+#### Realizamos o deploy e colocamos a API no ar;
 
-#### Desenvolvemos a busca de clientes pelo número de CPF ou pelo nome.
+#### Vimos como atualizar a API no Heroku.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
