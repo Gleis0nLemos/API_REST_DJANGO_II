@@ -2,6 +2,12 @@
 ### Validações, buscas, filtros e deploy
 
 > Status: Finish
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/100967809/202731464-add4f48f-4579-4eec-8f76-1d6e25e6a4cf.png" />
+</div>
+
 
 ## Sumário: 
 
