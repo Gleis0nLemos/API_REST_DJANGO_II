@@ -51,6 +51,3 @@ https://api-clients-drf.herokuapp.com/
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
-
-<div align=center>
-  <h4>Curso, by #Alura</h4>
